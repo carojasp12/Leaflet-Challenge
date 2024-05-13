@@ -1,0 +1,42 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+  
+}
+
+.info.legend {
+  background: rgb(8, 8, 8);
+  padding: 10px;
+  border: 1px solid #ccc;
+  color: #FFf;
+}
+
+.info.legend h4 {
+  margin-top: 0;
+}
+
+.info.legend i {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.custom-popup {
+  background: #000;
+  color: #fff;
+  padding: 10px;
+  font-size: 14px;
+
+}
+
+.custom-popup b {
+  color: #fff;
+  font-size: 14px;
+}
